@@ -1,5 +1,4 @@
 **/*.pyc
-tf_files
 .idea/
 **/*~
 gradle*
@@ -8,3 +7,6 @@ local.properties
 android.iml
 .gradle/
 android/assets/*
+/tf_files/*
+!/tf_files/.keep
+/codelab/
